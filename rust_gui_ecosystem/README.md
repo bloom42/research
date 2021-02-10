@@ -1,8 +1,8 @@
 # Rust GUI ecosystem overview
 
-author: [Sylvain Kerkour (z0mbie42)](https://www.kerkour.fr)
+author: [Sylvain Kerkour (z0mbie42)](https://www.kerkour.com)
 
-Prepared for: [Bloom](https://gitlab.com/bloom42)
+Prepared for: [Bloom](https://bloom.sh)
 
 ----------
 
